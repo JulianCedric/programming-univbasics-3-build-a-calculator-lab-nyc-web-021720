@@ -23,8 +23,8 @@ def modulo(num1, num2)
   return modulo
 end
 
-def square_root(n)
-  square_root = sqrt(n)
+def square_root(num1)
+  square_root = num1**
   return square_root
 end 
 
