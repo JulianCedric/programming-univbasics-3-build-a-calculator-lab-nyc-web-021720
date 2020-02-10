@@ -18,4 +18,7 @@ def multiplication(num1, num2)
   return product
 end
 
-def modulo()
+def modulo(num1, num2)
+  modulo = num1 % num2
+  return modulo
+end
