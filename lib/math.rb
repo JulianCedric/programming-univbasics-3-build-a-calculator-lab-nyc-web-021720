@@ -18,11 +18,4 @@ def multiplication(num1, num2)
   return product
 end
 
-# def modulo(num1, num2)
-#   quotient_remainder = (num1.round / num2.round) - (num1 / num2)
-#   return quotient_remainder
-# end
-
-# def square_root(num)
-
-# end
+def modulo()
